@@ -1,0 +1,25 @@
+.form-data{
+    border: 2px solid white;
+    padding: 15px;
+    background-color: rgb(112, 137, 137);
+}
+.form-data table{
+    border: 1px solid white;
+    padding: 20px;
+}
+
+
+td{
+    
+    border-bottom: 1px solid white;
+    text-align: left;
+    font-size: 2rem;
+}
+
+th{
+    text-align: left;
+    font-size: 2.5rem;
+    padding-right: 20px;
+
+    
+    }
